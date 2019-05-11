@@ -5,6 +5,18 @@ VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cognitive.Web", "src\Cognitive.Web\Cognitive.Web.csproj", "{B68A3D1A-4567-45C0-B74B-3D0EFA55F68C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{7B54BC91-F4A4-4C09-9871-8F79AEAE9569}"
+	ProjectSection(SolutionItems) = preProject
+		assets\Amy.jpg = assets\Amy.jpg
+		assets\Colmar.jpg = assets\Colmar.jpg
+		assets\Dubai.jpg = assets\Dubai.jpg
+		assets\Innsbruck.jpg = assets\Innsbruck.jpg
+		assets\Jerusalem.jpg = assets\Jerusalem.jpg
+		assets\Rome.JPG = assets\Rome.JPG
+		assets\Switzerland.jpg = assets\Switzerland.jpg
+		assets\Thailand.jpg = assets\Thailand.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
